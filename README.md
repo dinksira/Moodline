@@ -1,5 +1,3 @@
-Here is a ready‑to‑paste `README.md` for your Moodline project:
-
 ```markdown
 # Moodline – Mobile App for Early Burnout Detection
 
